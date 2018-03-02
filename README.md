@@ -1,5 +1,4 @@
-# [BDReborn](https://telegram.me/BDReborn)
-
+ROBOT_TGBOT /README.md
 **An advanced and powerful administration bot based on NEW TG-CLI
 
 
