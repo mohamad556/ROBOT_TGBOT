@@ -29,9 +29,10 @@ chmod +x beyond.sh
 ```
 ### One command
 To install everything in one command, use:
-```sh
+```sh +12517219264
+
 cd $HOME && git clone https://github.com/BeyondTeam/BDReborn.git && cd BDReborn && chmod +x beyond.sh && ./beyond.sh install && ./beyond.sh
-```
+``
 
 * * *
 
@@ -40,8 +41,8 @@ cd $HOME && git clone https://github.com/BeyondTeam/BDReborn.git && cd BDReborn 
 Open ./bot/bot.lua and add your ID to the "sudo_users" section in the following format:
 ```
     sudo_users = {
-    157059515,
-    0,
+    380374623,
+    ,
     YourID
   }
 ```
@@ -71,6 +72,7 @@ More information [Beyond Global Chat](https://t.me/joinchat/AAAAAEGaKOxC8K6cJ3b
 [Tele_Sudo](https://github.com/Tele_Sudo) ([Telegram](https://telegram.me/Tele_Sudo))
 
 [MAKAN](https://github.com/makanj) ([Telegram](https://telegram.me/MAKAN))
+380374623
 
 [Ali](https://github.com/ali-ghoghnoos) ([Telegram](https://telegram.me/Exacute))
 
